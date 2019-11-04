@@ -4,8 +4,8 @@
 
 /* start body */
 body {
-    background-color : black;
-    color: cornsilk;
+    background-color : whitesmoke;
+    color: black;
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-size: 16px;
     line-height: 1,5em;
@@ -40,7 +40,7 @@ body {
     margin: 10px auto;
     overflow: auto;
     width: 90%;
-    background-color: rgb(105, 238, 105);
+    background-color: burlywood;
 }
 /* End Container */
 
@@ -131,7 +131,7 @@ h6 {
 
 /* Start Jumbotron */
 .jumbotron {
-    background-color: #de9d87;
+    background-color: #deb887;
     border: 1px solid black;
     border-radius: 4px;
     padding: 20px 0;
@@ -165,7 +165,7 @@ h6 {
 
 /* Start Box */
 .box-heading {
-    background-color: rgb(105, 238, 105);
+    background-color: #deb887;
     border: 1px solid white;
     border-radius: 3px 3px 0 0;
     margin: 0;
@@ -196,9 +196,9 @@ h6 {
 
 /* Start Menu Sekunder */
 .menu-sekunder {
-    background-color: coral;
-    border-bottom: 1px solid white;
-    border-top: 1px solid white;
+    /* background-color: coral; */
+    /* border-bottom: 1px solid white; */
+    /* border-top: 1px solid white; */
     overflow: auto;
     padding: 10px 0;
 }
